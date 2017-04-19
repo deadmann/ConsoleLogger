@@ -5,7 +5,7 @@ using System.Diagnostics;
 namespace ConsoleLogger
 {
     [DebuggerNonUserCode]
-    internal static class Logger
+    public static class Logger
     {
         public static int CurrentLine { get { return Console.CursorTop; } }
         public static int NextLine { get { return Console.CursorTop + 1; } }
