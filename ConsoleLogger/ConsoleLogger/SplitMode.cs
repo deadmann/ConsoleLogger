@@ -1,6 +1,4 @@
-using System.Diagnostics;
-
-namespace GabrielWinFormTest.Helpers.Logger
+namespace ConsoleLogger
 {
     /// <summary>
     /// Create Empty Spliter Line, If The Condition Meet

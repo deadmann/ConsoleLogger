@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace GabrielWinFormTest.Helpers.Logger
+namespace ConsoleLogger
 {
     [DebuggerNonUserCode]
     public class DisplayData

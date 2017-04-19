@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace GabrielWinFormTest.Helpers.Logger
+namespace ConsoleLogger
 {
     [DebuggerNonUserCode]
     internal static class Logger

@@ -1,4 +1,4 @@
-namespace GabrielWinFormTest.Helpers.Logger
+namespace ConsoleLogger
 {
     public enum Align
     {
